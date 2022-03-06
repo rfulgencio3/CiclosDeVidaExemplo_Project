@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CiclosDeVida.API", "src\CiclosDeVida.API\CiclosDeVida.API.csproj", "{9B3F1135-DD51-404D-87F3-9FC5E649A462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3F1135-DD51-404D-87F3-9FC5E649A462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3F1135-DD51-404D-87F3-9FC5E649A462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3F1135-DD51-404D-87F3-9FC5E649A462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3F1135-DD51-404D-87F3-9FC5E649A462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425E0F96-7A9C-4CEA-B5BB-49D949D3A4AF}
+	EndGlobalSection
+EndGlobal
